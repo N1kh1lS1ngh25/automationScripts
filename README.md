@@ -2,7 +2,7 @@
 # ![asda](https://github.com/Nikhil-Singh25/Images_logos/blob/main/pngwing.com%20(1).png)+![aws](https://github.com/Nikhil-Singh25/Images_logos/blob/main/pngwing.com.png)+![jenkins](https://github.com/Nikhil-Singh25/Images_logos/blob/main/jenkins100-100(3).png)</br>  Terraform-AWS + Jenkins Pipeline
 
 This repo consists of :
-  1. Terraform Configuration filesm, please refer to [Terraform Configuration Repository](https://github.com/Nikhil-Singh25/Terraform-VPC_Stack) to know more about configuration files.
+  1. Terraform Configuration files, please refer to [Terraform Configuration Repository](https://github.com/Nikhil-Singh25/Terraform-VPC_Stack) to know more about configuration files.
   2. [Jenkinsfile](https://github.com/Nikhil-Singh25/tf_jenkinsProj/blob/main/Jenkinsfile) which automates infrastructure provisioning using Terraform.</br>
   The script consists of the following:</br>
    * `parameters`: Defines input parameters that can be used to customize the pipeline. In this case, a boolean parameter autoApprove is defined with a default value of false. This parameter will be used later to determine if the pipeline should automatically run the apply step or prompt the user for approval.
