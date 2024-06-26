@@ -1,5 +1,4 @@
-
-# ![asda](https://github.com/Nikhil-Singh25/Images_logos/blob/main/pngwing.com%20(1).png)+![aws](https://github.com/Nikhil-Singh25/Images_logos/blob/main/pngwing.com.png)+![jenkins](https://github.com/Nikhil-Singh25/Images_logos/blob/main/jenkins100-100(3).png)</br>  Terraform-AWS + Jenkins Pipeline
+## <img src = "https://skillicons.dev/icons?i=terraform"/> Terraform <img src = "https://skillicons.dev/icons?i=aws"/> AWS & <img src = "https://skillicons.dev/icons?i=jenkins"/> Jenkins.
 
 This repo consists of :
   1. Terraform Configuration files, please refer to [Terraform Configuration Repository](https://github.com/Nikhil-Singh25/Terraform-VPC_Stack) to know more about configuration files.
